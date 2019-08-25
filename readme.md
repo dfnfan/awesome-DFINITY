@@ -88,6 +88,7 @@
 - [DFINITY In A Nutshell — A Non Technical Introduction (2017)](https://medium.com/dfinity/dfinity-in-a-nutshell-a-non-technical-introduction-ec45ec5967c1)
 
 ## Videos
+- [How DFINITY Is Reinventing the Internet (2019)](https://www.youtube.com/watch?v=QUhceX6I81U)
 - [The Internet Computer | Consensus  (2019)](https://youtu.be/xwRZljfqQg0)
 - [DFINITY Developer Network Demo | New York Blockchain Week  (2019)](https://youtu.be/xTID4zlgFVY)
 - [Balancing the Ledger: DFINITY's Mission to Decentralize Web Services I Fortune (2018)](https://youtu.be/1Vc0YLTJAMA)
