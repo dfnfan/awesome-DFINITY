@@ -88,6 +88,8 @@
 - [DFINITY In A Nutshell — A Non Technical Introduction (2017)](https://medium.com/dfinity/dfinity-in-a-nutshell-a-non-technical-introduction-ec45ec5967c1)
 
 ## Videos
+- [Dominic Williams Explains DFINITY (2019)](https://youtu.be/ZuMfYk4eZcI)
+- [What is WebAssembly? By Some of its Creators (2019)](https://youtu.be/fvkIQfRZ-Y0)
 - [How DFINITY Is Reinventing the Internet (2019)](https://www.youtube.com/watch?v=QUhceX6I81U)
 - [The Internet Computer | Consensus  (2019)](https://youtu.be/xwRZljfqQg0)
 - [DFINITY Developer Network Demo | New York Blockchain Week  (2019)](https://youtu.be/xTID4zlgFVY)
