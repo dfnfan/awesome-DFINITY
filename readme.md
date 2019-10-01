@@ -37,6 +37,7 @@
 - [Developer Portal](https://dfinity.org/developers/)
 - [Developer Telegram Group](https://t.me/DFINITY_Devs)
 - [Scholarships](https://dfinity.org/ecosystem/scholarships)
+- [Beacon Venture Fund](https://dfinity.org/ecosystem/fund)
 
 
 
