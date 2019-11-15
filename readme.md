@@ -31,10 +31,9 @@
 
 
 ## Technical and Developer Resources
-
+- [Developer Center and SDK](https://sdk.dfinity.org/)
 - [GitHub](https://github.com/dfinity)
 - [Consensus White Paper](https://dfinity.org/static/dfinity-consensus-0325c35128c72b42df7dd30c22c41208.pdf)
-- [Developer Portal](https://dfinity.org/developers/)
 - [Developer Telegram Group](https://t.me/DFINITY_Devs)
 - [Scholarships](https://dfinity.org/ecosystem/scholarships)
 - [Beacon Venture Fund](https://dfinity.org/ecosystem/fund)
