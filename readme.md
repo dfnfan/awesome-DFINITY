@@ -13,7 +13,8 @@
 
 - [General Resources](#general-resources)
 - [Technical and Developer Resources](#technical-and-developer-resources)
-- [Community](#community)
+- [Community Tutorials](#community-tutorials)
+- [Community Social](#community-social)
 - [Meetups](#meetups)
 - [Explorers](#explorers)
 - [Articles](#articles)
@@ -38,9 +39,20 @@
 - [Scholarships](https://dfinity.org/ecosystem/scholarships)
 - [Beacon Venture Fund](https://dfinity.org/ecosystem/fund)
 
+## Community Tutorials
+
+<!-- ### Official Channels -->
+- [Beginners Guide to Creating a New Dfinity Project](https://youtu.be/oJjRY3tFNEE)
+- [Quick Start Dfinity SDK on macOS (beginners)](https://youtu.be/1imAWXA7ucY)
+- [Dfx on windows for beginners](https://youtu.be/V6QKwePTITc)
+- [Dfinity SDK common compilation errors and fixes](https://youtu.be/Cwx9825y7R8)
+- [The DFINITY Calculator Tutorial](https://youtu.be/OEtbqawrTvo)
+- [Counter tutorial for beginners](https://youtu.be/Cwx9825y7R8)
+- [How to fix the main reason for SDK upgrade issues](https://youtu.be/dMgt5NAsmwQ)
 
 
-## Community
+
+## Community Social
 
 <!-- ### Official Channels -->
 - [Twitter](https://twitter.com/dfinity)
@@ -88,6 +100,8 @@
 - [DFINITY In A Nutshell — A Non Technical Introduction (2017)](https://medium.com/dfinity/dfinity-in-a-nutshell-a-non-technical-introduction-ec45ec5967c1)
 
 ## Videos
+- [Introducing the DFINITY SDK & Motoko | San Francisco Blockchain Week (2019)](https://youtu.be/rosenZ0SgGk)
+- [DFINITY | Vision for the Internet Computer (2019)](https://youtu.be/lcC4zVpc13Q)
 - [Dominic Williams Explains DFINITY (2019)](https://youtu.be/ZuMfYk4eZcI)
 - [What is WebAssembly? By Some of its Creators (2019)](https://youtu.be/fvkIQfRZ-Y0)
 - [How DFINITY Is Reinventing the Internet (2019)](https://www.youtube.com/watch?v=QUhceX6I81U)
